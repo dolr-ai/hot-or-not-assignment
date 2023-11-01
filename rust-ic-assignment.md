@@ -1,6 +1,6 @@
 # Brief
 
-Build a TODO app backend CRUD API on the Internet Computer. The app should have the following endpoints:
+Build a TODO app backend CRUD API on the [Internet Computer](https://internetcomputer.org/). The app should have the following endpoints:
 
 - Add a new todo with the todo text as the input and the created todo ID as the output
 - Read an existing todo by id
