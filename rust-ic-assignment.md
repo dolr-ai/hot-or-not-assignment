@@ -15,4 +15,6 @@ Build a TODO app backend CRUD API on the [Internet Computer](https://internetcom
 
 # Additional Information
 
-- You should be able to get free cycles from the faucet to deploy your canister on the mainnet.
+- The above code is expected to be performant and following best practices
+- You should be able to get free cycles from the faucet to deploy your canister on the mainnet. You can find more info [here](https://internetcomputer.org/docs/current/developer-docs/getting-started/cycles/cycles-faucet).
+- Make sure to request cycles before you start working on the assignment as it may take some time to get the cycles (usually max 1-2 days)
