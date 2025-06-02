@@ -15,4 +15,5 @@ Build a TODO app backend CRUD API using [Axum](https://github.com/tokio-rs/axum)
 # Additional Information
 
 - The above code is expected to be performant and scalable and following best practices
+- The app must store its state on the filesystem in json format
 - The app must not lose the created todos across restarts and crashes
