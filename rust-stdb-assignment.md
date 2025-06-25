@@ -11,7 +11,7 @@ Build a TODO App Backend CRUD API using [SpaceTimeDB](https://spacetimedb.com/).
 Ensure that each user has a different state
 
 Also create a CLI client which uses async rust to perform at least three operations: Add, Read by ID, Delete by ID.  
-The SpaceTime SDK uses a callback mechanism as opposed to async/await. You are expected to bridge them.
+The SpaceTimeDB SDK uses a callback mechanism as opposed to async/await. You are expected to bridge them.
 
 Submittable
 
@@ -21,4 +21,4 @@ Submittable
 Additional Information
 
 - The Backend code is expected to be performant and following best practices
-- SpaceTimeDB mainclouud gives you 25 TeV energy for free
+- SpaceTimeDB maincloud gives you 25 TeV energy for free
