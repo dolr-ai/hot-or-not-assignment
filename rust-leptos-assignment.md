@@ -22,3 +22,4 @@ Build a TODO CRUD App using [Leptos](https://leptos.dev/), the app should have t
 - The above code is expected to be performant and scalable and following best practices
 - The app must be persistent, feel free to use any backing storage
 - The app must not lose the created todos across restarts and crashes
+- The app must use SSR (Server Side Rendering)
